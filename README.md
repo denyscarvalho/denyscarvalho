@@ -17,6 +17,7 @@
   <img align="center" alt="Deni-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Deni-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Deni-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
+  <img align="right" width="150" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/918870007969120309/925139473304543293/minhaimagem.png">
 </div>
   
   ##
