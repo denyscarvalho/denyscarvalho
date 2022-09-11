@@ -1,8 +1,9 @@
 ### Olá, Eu sou Denise Soares ✨
 
 
-- 🔭 Eu atualmente estou me dedicando a estudar programação WEB com foco em Backend através dos cursos Alura
+- 🔭 Estudante de programação WEB com foco em Backend 
 - 🌱 Estudando JavaScript, HTML, CSS e Node.JS
+- 🌹  Estudande de Metodologias ágeis
 - 😄 Pronouns: Ela/Dela
 
 <div align="center">
